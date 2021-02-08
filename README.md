@@ -1,7 +1,7 @@
 ### Hi! I'm Anton Borkovskij 👋
 
 
-<img src="https://www.flaticon.com/download/icon/2564157?icon_id=2564157&author=346&team=346&keyword=Excavator&pack=2564134&style=0&style_id=569&format=png&color=%23000000&colored=2&size=24&selection=1&premium=0&token=03AGdBq24X67OLmJgw_FcWEuFrJr9yXmNYjipG02TpTqA7R9b-CqfVFK0m4WGqJFlibNzcHLKq6-yYv7dQ69AsIv6eq_f7O4ffOFVB_1iJqHatnANcZNtJSPJp_eALMY5Fp_-rlsVgAeZwoiQG-M-d45UpR0CnVkYKPli23kMEnKhg6tKf0y2vpFO-7SN7vgNHUl1g_3gD4TfV_A64vssNvQ0NI9tHJEJAN8YXHUqaAYQuqFnVon5B86S_b0gjNIsp6OtPxqJdL3BcZtQWWDx41nVYVAG-YCyy0UZbTLyrLpF1QJFtR7cKF56ohImz2G3WEUod0ZR-AoI0-hXmSa94u5VyIcyVO9Zt9czKkJAY7eeSliZDEQ7p-uvuTVv_CNA6v3FPKEHBnIbwYoWRrDUhJtxN1Mg4v0QncDuP49S0n2Lupoqn6W3u3G3_khcNOBL1nGpMSEeE_dRv"> I’m mining engineer but i want to change my job.
+<img src="https://github.com/g5-freemen/g5-freemen/blob/main/excavator.png"> I’m mining engineer but i want to change my job.
 
 📘 I’m currently learning Front-End Development.
 
