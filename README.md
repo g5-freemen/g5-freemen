@@ -2,6 +2,7 @@
 
 
 <img src="https://image.flaticon.com/icons/png/128/2564/2564105.png"> I’m mining engineer but want to change my job.
+
 📘 I’m currently learning Front-End Development.
 
 <!--
