@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://www.codewars.com/users/g5-freemen/badges/micro">
+<img src="https://www.codewars.com/users/g5-freemen/badges/small">
