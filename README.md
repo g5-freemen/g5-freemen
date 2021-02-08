@@ -2,7 +2,7 @@
 
 📘 Learning Front-End Development @ [TeachMeSkills](https://teachmeskills.by/).
 
-<img src="https://github.com/g5-freemen/g5-freemen/blob/main/excavator.png"> I’m mining engineer.
+<img src="https://github.com/g5-freemen/g5-freemen/blob/main/excavator.png"> Mining engineer.
 
 
 
