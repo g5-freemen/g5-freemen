@@ -1,7 +1,7 @@
 ### Hi! I'm Anton Borkovskij 👋
 
 
-<img src="https://github.com/g5-freemen/g5-freemen/blob/main/excavator.png"> I’m mining engineer but i want to change my job.
+<img src="https://github.com/g5-freemen/g5-freemen/blob/main/excavator.png"> I’m mining engineer.
 
 📘 I’m currently learning Front-End Development.
 
