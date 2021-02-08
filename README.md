@@ -3,7 +3,7 @@
 
 <img src="https://github.com/g5-freemen/g5-freemen/blob/main/excavator.png"> I’m mining engineer.
 
-📘 I’m currently learning Front-End Development.
+📘 Learning Front-End Development @ [TeachMeSkills](https://teachmeskills.by/).
 
 <!--
 **g5-freemen/g5-freemen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
