@@ -1,4 +1,4 @@
-### Hi! I'm Anton Borkovskij 👋
+## Hi! I'm Anton Borkovskij 👋
 
 📘 Learning Front-End Development @ [TeachMeSkills](https://teachmeskills.by/).
 
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+💻 ## Codewars
 <img src="https://www.codewars.com/users/g5-freemen/badges/large">
