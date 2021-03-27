@@ -1,7 +1,6 @@
 ## Hi! I'm Anton Borkovskij 👋
 
 📘  Learning Front-End Development @ [TeachMeSkills](https://teachmeskills.by/),
-
 💻  JavaScript/Front-end 2021Q1 @ [Rolling-Scopes](https://rs.school/)
 
 
