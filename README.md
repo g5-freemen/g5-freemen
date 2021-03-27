@@ -1,8 +1,7 @@
 ## Hi! I'm Anton Borkovskij 👋
 
 📘  Learning Front-End Development @ [TeachMeSkills](https://teachmeskills.by/),
-
-    [Rolling-Scopes](https://rs.school/) JavaScript/Front-end 2021Q1
+📘  JavaScript/Front-end 2021Q1 @ [Rolling-Scopes](https://rs.school/)
 
 <img src="https://github.com/g5-freemen/g5-freemen/blob/main/excavator.png"> Mining engineer.
 
