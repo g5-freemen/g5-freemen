@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+### 📗 [learn.javascript.ru](https://learn.javascript.ru/)
 ### 💻 [Codewars](https://www.codewars.com/) <img src="https://www.codewars.com/users/g5-freemen/badges/micro">
