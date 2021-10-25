@@ -1,5 +1,7 @@
 ## Hi! I'm Anton Borkovskij 👋
 
+<!--
+
 📘  Front-End Development @ [TeachMeSkills](https://teachmeskills.by/),   
 💻  JavaScript/Front-end 2021Q1 @ [The Rolling Scopes School](https://rs.school/),  
 💻  React.JS 2021Q3 @ [The Rolling Scopes School](https://rs.school/) (in process)
@@ -9,7 +11,6 @@
 
 
 
-<!--
 **g5-freemen/g5-freemen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
