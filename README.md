@@ -4,10 +4,7 @@
 
 📘  Front-End Development @ [TeachMeSkills](https://teachmeskills.by/),   
 💻  JavaScript/Front-end 2021Q1 @ [The Rolling Scopes School](https://rs.school/),  
-💻  React.JS 2021Q3 @ [The Rolling Scopes School](https://rs.school/) (in process)
-
-
-<img src="https://github.com/g5-freemen/g5-freemen/blob/main/excavator.png"> Mining engineer.
+💻  React.JS 2021Q3 @ [The Rolling Scopes School](https://rs.school/)
 
 
 
